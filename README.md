@@ -1,2 +1,2 @@
-# flexgrid
-A simple css grid based on flexbox spec
+# Teia
+A simple css layout based on grid specs
